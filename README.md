@@ -13,10 +13,16 @@ Cada projeto busca demonstrar minhas habilidades técnicas e analíticas. E tamb
 Prevendo Preços de Apartamentos com Machine Learning
 
 Neste projeto, utilizei Machine Learning para estimar o valor justo de aluguel de imóveis na cidade de São Paulo. Os dados utilizados são de uma base pública contendo informações reais de imóveis referentes a abril de 2019.
+
 Clique no link abaixo para ir direto para o projeto.
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/151KuQJj1Ln4PSPIDAKbBn4z0LtjEG6MW)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/74fc42a9-7cbb-48e1-afe5-751f967a4454" width=80%>
+</p>
+
+---
 
 ### Modelo de Regressão Linear
 
@@ -28,6 +34,11 @@ Clique no link abaixo para ir direto para o projeto.
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ji3HAI_o8Y58HorLcw3p9uXBMnlEaZss)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61e7d0ac-2b91-4576-975d-0cc50fca5807" width=80%>
+</p>
+
+---
 
 ### Modelo de Regressão Logística
 
@@ -39,6 +50,11 @@ Clique no link abaixo para ir direto para o projeto.
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1duot7rX8Zq-4-BPkI_dWjh-sJZ3A7z0u)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3eb2f2ee-2ffa-41e3-9f58-ca2acffaaeae" width=80%>
+</p>
+
+---
 
 ### Modelo Não Supervisionado
 
@@ -50,6 +66,11 @@ Clique no link abaixo para ir direto para o projeto.
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10Y3K_rrWlq1R7TqnoH91AmGKJDOW44tt)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f7e05508-7fbc-4a0f-b218-2c4df943904d" width=80%>
+</p>
+
+---
 
 ### Modelo de Random Forests
 
@@ -61,6 +82,8 @@ Clique no link abaixo para ir direto para o projeto.
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](vhttps://colab.research.google.com/drive/1eoZ33uQxEuXdwm0MFi4ht6Y_mvdwLpVm)
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2322222e-2520-4a03-bb11-4eb5869bcacc" width=80%>
+</p>
 
 
