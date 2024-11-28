@@ -16,7 +16,7 @@ Neste projeto, utilizei Machine Learning para estimar o valor justo de aluguel d
 
 Clique no link abaixo para ir direto para o projeto.
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/151KuQJj1Ln4PSPIDAKbBn4z0LtjEG6MW)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PYdP47vqMirT_OXask7_Dh_WayHI17EH?usp=sharing)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/74fc42a9-7cbb-48e1-afe5-751f967a4454" width=100%>
@@ -32,7 +32,7 @@ Neste projeto, utilizei meus conhecimentos de Python, Ciência de Dados e Machin
 
 Clique no link abaixo para ir direto para o projeto.
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ji3HAI_o8Y58HorLcw3p9uXBMnlEaZss)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ohtIC83Rdg6SuCS5YYJOmghhc3oQg9Ej?usp=sharing)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/61e7d0ac-2b91-4576-975d-0cc50fca5807" width=100%>
@@ -48,7 +48,7 @@ Neste projeto, utilizei um modelo de Regressão Logística para estimar a probab
 
 Clique no link abaixo para ir direto para o projeto.
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1duot7rX8Zq-4-BPkI_dWjh-sJZ3A7z0u)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1an1Hyiaad12ZNkQoDTIWB-27O0rgeJy9?usp=sharing)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3eb2f2ee-2ffa-41e3-9f58-ca2acffaaeae" width=100%>
@@ -64,7 +64,7 @@ Neste projeto, utilizei o método de KMeans Clustering para segmentar universida
 
 Clique no link abaixo para ir direto para o projeto.
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10Y3K_rrWlq1R7TqnoH91AmGKJDOW44tt)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UqFYd5W9aFOPStre11cLiez1bSfQI3hR?usp=sharing)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f7e05508-7fbc-4a0f-b218-2c4df943904d" width=100%>
@@ -80,7 +80,7 @@ Neste projeto, utilizei dados de uma plataforma de Peer to Peer Lending (emprés
 
 Clique no link abaixo para ir direto para o projeto.
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](vhttps://colab.research.google.com/drive/1eoZ33uQxEuXdwm0MFi4ht6Y_mvdwLpVm)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ARbXXbT6h7vbidUSucHgFdx109K_7L-y?usp=sharing)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2322222e-2520-4a03-bb11-4eb5869bcacc" width=100%>
